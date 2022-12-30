@@ -1,0 +1,18 @@
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\bin\Debug\Gym Management System 0.0.exe.config
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\bin\Debug\Gym Management System 0.0.exe
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\bin\Debug\Gym Management System 0.0.pdb
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\obj\Debug\Gym Management System 0.0.csproj.AssemblyReference.cache
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\obj\Debug\Gym Management System 0.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\obj\Debug\Gym_Management_System_0._0.Form1.resources
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\obj\Debug\Gym_Management_System_0._0.Properties.Resources.resources
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\obj\Debug\Gym Management System 0.0.csproj.GenerateResource.cache
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\obj\Debug\Gym Management System 0.0.csproj.CoreCompileInputs.cache
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\obj\Debug\Gym Management System 0.0.exe
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\obj\Debug\Gym Management System 0.0.pdb
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\obj\Debug\Gym_Management_System_0._0.NewMember.resources
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\obj\Debug\Gym_Management_System_0._0.NewStaff.resources
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\obj\Debug\Gym_Management_System_0._0.Equipment.resources
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\obj\Debug\Gym_Management_System_0._0.ViewEquipment.resources
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\obj\Debug\Gym_Management_System_0._0.SearchMember.resources
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\obj\Debug\Gym_Management_System_0._0.DeleteMember.resources
+C:\Users\senit\Desktop\gym\Gym Management System 0.0\Gym Management System 0.0\obj\Debug\Gym_Management_System_0._0.Login.resources
